@@ -1,0 +1,9 @@
+train/*
+test/*
+training_labels*
+*.pyc
+__pycache__
+log/*
+runs/*
+*.pt
+*.csv
